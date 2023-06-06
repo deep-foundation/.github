@@ -2,7 +2,7 @@
 
 # 1. Start a deep instance in [![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/deep-foundation/dev)
 
-[![Start a deep instance in YouTube video](https://github.com/deep-foundation/.github/assets/1431904/34acf5f6-845a-43d6-89be-3a865a1e9654 "Start a deep instance in YouTube video")](https://www.youtube.com/watch?v=MBZZDDASrqo)
+[![Start a deep instance in YouTube video](https://raw.githubusercontent.com/deep-foundation/.github/main/StartDeepInstanceInGitPod.png "Start a deep instance in YouTube video")](https://www.youtube.com/watch?v=MBZZDDASrqo)
 
 # 2. Login as the administrator
 
