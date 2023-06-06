@@ -1,12 +1,12 @@
-## Hi there 👋
+# Welcome to the Deep
 
-<!--
+# 1. Start a deep instance in [![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/deep-foundation/dev)
 
-**Here are some ideas to get you started:**
+[![Screenshot_20230606_232547](https://github.com/deep-foundation/.github/assets/1431904/34acf5f6-845a-43d6-89be-3a865a1e9654)](https://www.youtube.com/watch?v=MBZZDDASrqo)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 2. Login as the administrator
+
+[![Screenshot_20230606_232505](https://github.com/deep-foundation/.github/assets/1431904/11fefd6b-1e91-4e32-bf30-674e8d7dd44a)](https://www.youtube.com/watch?v=WNyz_jp9cAk)
+
+# 3. Join our [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label&color=purple)](https://discord.gg/deep-foundation) to get support or to become a Cadet of Depth
+
