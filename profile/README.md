@@ -10,3 +10,5 @@
 
 # 3. Join our [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label&color=purple)](https://discord.gg/deep-foundation) to get support or to become a Cadet of Depth
 
+[Wiki](https://github.com/deep-foundation/documentation/wiki)
+
