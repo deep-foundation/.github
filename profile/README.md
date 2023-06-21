@@ -8,11 +8,19 @@
 
 [![Login as the administrator YouTube video](https://raw.githubusercontent.com/deep-foundation/.github/main/LoginAsAdministratorUserInDeep.png "Login as the administrator YouTube video")](https://www.youtube.com/watch?v=WNyz_jp9cAk)
 
-# 3. Join our [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label&color=purple)](https://discord.gg/deep-foundation) to get support or to become a Cadet of Depth.
+# 3. Install your favourite package
+
+For example we have packages with `deep-package` keyword in NPM. These packages can be without UI (with behaviour: sensor or actuator handlers) or with UI (client handlers).
+
+| @deep-foundation/chatgpt    | @deep-foundation/chatgpt-ui |
+| -------- | ------- |
+| [![@deep-foundation/chatgpt](https://raw.githubusercontent.com/deep-foundation/.github/main/TalkingToChatGPTUsingDeepInstance.png "@deep-foundation/chatgpt")](https://youtu.be/63oAjA536AE)  | [![@deep-foundation/chatgpt-ui](https://raw.githubusercontent.com/deep-foundation/.github/main/TalkingToChatGPTViaClientHandlerInDeepInstance.png "@deep-foundation/chatgpt-ui")](https://youtu.be/2THTdcCgk-Y)    |
+
+# 4. Join our [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label&color=purple)](https://discord.gg/deep-foundation) to get support or to become a Cadet of Depth.
 
 Note that we have `@chatgpt` bot on our Discord server that connected to GPT-4 directly.
 
-# 4. Use GPT-4 prompt to have complete control over your Deep instance:
+# 5. Use GPT-4 prompt to have complete control over your Deep instance:
 
 ## User prompt:
 
@@ -111,4 +119,4 @@ In the `createTask` function, we create a new `Task` instance by inserting a lin
 
 ![Screenshot_20230611_224757](https://github.com/deep-foundation/.github/assets/1431904/b20904ed-d516-41d2-b7e0-df08ee3f2c80)
 
-# 5. Read [wiki](https://github.com/deep-foundation/documentation/wiki) for other life hacks and other [GPT-4 prompts](https://github.com/deep-foundation/documentation/wiki/GPT-4-prompts-to-use-Deep).
+# 6. Read [wiki](https://github.com/deep-foundation/documentation/wiki) for other life hacks and other [GPT-4 prompts](https://github.com/deep-foundation/documentation/wiki/GPT-4-prompts-to-use-Deep).
