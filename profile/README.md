@@ -12,7 +12,7 @@
 
 For example we have packages with `deep-package` keyword in NPM. These packages can be without UI (with behaviour: sensor or actuator handlers) or with UI (client handlers).
 
-| @deep-foundation/chatgpt    | @deep-foundation/chatgpt-ui |
+| @deep-foundation/chatgpt    | [@deep-foundation/chatgpt-ui](https://www.npmjs.com/package/@deep-foundation/chatgpt-ui) |
 | -------- | ------- |
 | [![@deep-foundation/chatgpt](https://raw.githubusercontent.com/deep-foundation/.github/main/TalkingToChatGPTUsingDeepInstance.png "@deep-foundation/chatgpt")](https://youtu.be/63oAjA536AE)  | [![@deep-foundation/chatgpt-ui](https://raw.githubusercontent.com/deep-foundation/.github/main/TalkingToChatGPTViaClientHandlerInDeepInstance.png "@deep-foundation/chatgpt-ui")](https://youtu.be/2THTdcCgk-Y)    |
 
