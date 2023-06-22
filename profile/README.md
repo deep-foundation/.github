@@ -8,9 +8,15 @@
 
 [![Login as the administrator YouTube video](https://raw.githubusercontent.com/deep-foundation/.github/main/LoginAsAdministratorUserInDeep.png "Login as the administrator YouTube video")](https://www.youtube.com/watch?v=WNyz_jp9cAk)
 
-# 3. Install your favourite package
+# 3. Choose and install your favourite package
 
-For example we have packages with `deep-package` keyword in NPM. These packages can be without UI (with behaviour: sensor or actuator handlers) or with UI (client handlers).
+We have packages with `deep-package` keyword in NPM (125+ packages).
+
+These packages contain links. Each link can be a type or an instance of a type. Each link can have an attached value.
+
+Some packages can contain handlers. Handlers are links that define which code should be executed up on which event (insert, update, delete, ...). Handlers can act as actuators or sensorts. Handlers can also describe the UI, these handlers are called client handlers.
+
+Here are examples of packages:
 
 | @deep-foundation/chatgpt    | [@deep-foundation/chatgpt-ui](https://www.npmjs.com/package/@deep-foundation/chatgpt-ui) |
 | -------- | ------- |
