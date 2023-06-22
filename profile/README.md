@@ -10,7 +10,7 @@
 
 # 3. Choose and install your favourite package
 
-We have packages with `deep-package` keyword in NPM (125+ packages).
+We have packages [with `deep-package` keyword in NPM (125+ packages)](https://www.npmjs.com/search?q=keywords:deep-package).
 
 These packages contain links. Each link can be a type or an instance of a type. Each link can have an attached value.
 
@@ -18,7 +18,7 @@ Some packages can contain handlers. Handlers are links that define which code sh
 
 Here are examples of packages:
 
-| @deep-foundation/chatgpt    | [@deep-foundation/chatgpt-ui](https://www.npmjs.com/package/@deep-foundation/chatgpt-ui) |
+| [@deep-foundation/chatgpt](https://github.com/deep-foundation/chatgpt)  | [@deep-foundation/chatgpt-ui](https://www.npmjs.com/package/@deep-foundation/chatgpt-ui) |
 | -------- | ------- |
 | [![@deep-foundation/chatgpt](https://raw.githubusercontent.com/deep-foundation/.github/main/TalkingToChatGPTUsingDeepInstance.png "@deep-foundation/chatgpt")](https://youtu.be/63oAjA536AE)  | [![@deep-foundation/chatgpt-ui](https://raw.githubusercontent.com/deep-foundation/.github/main/TalkingToChatGPTViaClientHandlerInDeepInstance.png "@deep-foundation/chatgpt-ui")](https://youtu.be/2THTdcCgk-Y)    |
 
