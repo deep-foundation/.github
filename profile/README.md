@@ -26,7 +26,7 @@ Here are examples of packages:
 
 Note that we have `@chatgpt` bot on our Discord server that connected to GPT-4 directly.
 
-# 5. Use GPT-4 prompt to have complete control over your Deep instance:
+# 5. Use GPT-4 prompt to make your own Deep package:
 
 ## User prompt:
 
