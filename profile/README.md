@@ -20,7 +20,7 @@ Here are examples of packages:
 
 | [@deep-foundation/chatgpt](https://github.com/deep-foundation/chatgpt)  | [@deep-foundation/chatgpt-ui](https://www.npmjs.com/package/@deep-foundation/chatgpt-ui) |
 | -------- | ------- |
-| [![@deep-foundation/chatgpt](https://raw.githubusercontent.com/deep-foundation/.github/main/TalkingToChatGPTUsingDeepInstance.png "@deep-foundation/chatgpt")](https://youtu.be/DiLJ2tLgMuQ)  | [![@deep-foundation/chatgpt-ui](https://raw.githubusercontent.com/deep-foundation/.github/main/TalkingToChatGPTViaClientHandlerInDeepInstance.png "@deep-foundation/chatgpt-ui")](https://youtu.be/2THTdcCgk-Y)    |
+| [![@deep-foundation/chatgpt](https://raw.githubusercontent.com/deep-foundation/.github/main/TalkingToChatGPTUsingDeepInstance.png "@deep-foundation/chatgpt")](https://youtu.be/DiLJ2tLgMuQ)  | [![@deep-foundation/chatgpt-ui](https://raw.githubusercontent.com/deep-foundation/.github/main/TalkingToChatGPTViaClientHandlerInDeepInstance.png "@deep-foundation/chatgpt-ui")](https://youtu.be/u_iIYp1x598)    |
 
 # 4. Join our [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label&color=purple)](https://discord.gg/deep-foundation) to get support or to become a Cadet of Depth.
 
