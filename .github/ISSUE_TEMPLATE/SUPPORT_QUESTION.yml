@@ -1,5 +1,5 @@
 name: '🤔 Support or Usage Question'
-description: Get help using Axios.
+description: Get help using Deep.
 labels: ['question']
 body:
   - type: markdown
@@ -8,10 +8,10 @@ body:
   - type: markdown
     attributes:
       value: |
-        - Read all our documentation, especially the [README](https://github.com/axios/axios/blob/master/README.md). It may contain information that helps you solve your issue.
-        - Ensure your issue isn't already [reported](https://github.com/axios/axios/issues?utf8=%E2%9C%93&q=is%3Aissue).
-        - If you aren't sure that the issue is caused by Axios or you just need help, please use [Stack Overflow](https://stackoverflow.com/questions/tagged/axios) or [our chat](https://gitter.im/mzabriskie/axios).
-        - If you're reporting a bug, ensure it isn't already fixed in the latest Axios version.
+        - Read all our [Wiki](https://github.com/deep-foundation/documentation/wiki). It may contain information that helps you solve your issue.
+        - Ensure your issue isn't already reported.
+        - If you aren't sure that the issue is caused by Deep or you just need help, please use [![StackOverflow](https://badgen.net/badge/icon/stackoverflow?icon=stackoverflow&label&color=orange)](https://stackoverflow.com/questions/tagged/deep) or [![our Discord server](https://badgen.net/badge/icon/discord?icon=discord&label&color=purple)](https://discord.gg/deep-foundation).
+        - If you're reporting a bug, ensure it isn't already fixed in the latest versions.
   - type: markdown
     attributes:
       value: '⚠️👆 Feel free to these instructions before submitting the issue 👆⚠️'
@@ -41,9 +41,9 @@ body:
     attributes:
       value: Environment
   - type: input
-    id: axios-version
+    id: deep-version
     attributes:
-      label: 'Axios Version'
+      label: 'Deep Version'
       placeholder: 'e.g. 0.18.0'
   - type: input
     id: adapter-version
