@@ -1,5 +1,5 @@
-name: '🤔 Support or Usage Question'
-description: Get help using Deep.
+name: '🤔 Support or Question'
+description: Get help.
 labels: ['question']
 body:
   - type: markdown
