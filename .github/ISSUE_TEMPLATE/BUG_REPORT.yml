@@ -1,5 +1,5 @@
 name: '🐛 Bug Report'
-description: Report a reproducible bug.
+description: Report a bug.
 labels: ['bug']
 body:
   - type: markdown
