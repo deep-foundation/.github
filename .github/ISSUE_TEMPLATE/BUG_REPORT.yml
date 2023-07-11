@@ -72,7 +72,7 @@ body:
     id: os
     attributes:
       label: 'OS'
-      placeholder: 'e.g. iOS 16.0.2, OSX 12.6.0'
+      placeholder: 'e.g. Ubuntu 22.04'
   - type: textarea
     id: other-version
     attributes:
