@@ -27,7 +27,7 @@ body:
     attributes:
       label: 'To Reproduce'
       description: |
-        How do you trigger this bug? Please walk us through it step by step or provide code snippet to reproduce, ideally if you can provide a live example in https://codesandbox.io/ sandbox or a repository that illustrates the issue. 
+        How do you trigger this bug? Please walk us through it step by step or provide code snippet to reproduce, ideally if you can provide a live example in https://codesandbox.io/ sandbox or a repository that illustrates the issue.
       placeholder: |
         1.
         2.
@@ -40,20 +40,20 @@ body:
         ...
     validations:
       required: false
-- type: textarea
-  id: expected_behavior
-  attributes:
-    label: Expected Behavior
-    description: "What did you expect to happen?"
-  validations:
-    required: true
-- type: textarea
-  id: current_behavior
-  attributes:
-    label: Current Behavior
-    description: "What actually happened?"
-  validations:
-    required: true
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected Behavior
+      description: 'What did you expect to happen?'
+    validations:
+      required: true
+  - type: textarea
+    id: current_behavior
+    attributes:
+      label: Current Behavior
+      description: 'What actually happened?'
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: Environment
