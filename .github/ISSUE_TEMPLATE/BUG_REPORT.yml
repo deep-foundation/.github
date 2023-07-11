@@ -27,24 +27,33 @@ body:
     attributes:
       label: 'To Reproduce'
       description: |
-        Code snippet to reproduce, ideally if you can provide a live example in https://codesandbox.io/ sandbox or a repository that illustrates the issue.
-        **If your problem is not reproducible, please file under Support or Usage Question**
+        How do you trigger this bug? Please walk us through it step by step or provide code snippet to reproduce, ideally if you can provide a live example in https://codesandbox.io/ sandbox or a repository that illustrates the issue. 
+      placeholder: |
+        1.
+        2.
+        3.
+        ...
+      value: |
+        1.
+        2.
+        3.
+        ...
     validations:
       required: false
-  - type: textarea
-    id: code-snippet
-    attributes:
-      label: 'Code snippet'
-      render: js
-    validations:
-      required: false
-  - type: textarea
-    id: expected
-    attributes:
-      label: 'Expected behavior'
-      description: A clear and concise description of what you expected to happen.
-    validations:
-      required: false
+- type: textarea
+  id: expected_behavior
+  attributes:
+    label: Expected Behavior
+    description: "What did you expect to happen?"
+  validations:
+    required: true
+- type: textarea
+  id: current_behavior
+  attributes:
+    label: Current Behavior
+    description: "What actually happened?"
+  validations:
+    required: true
   - type: markdown
     attributes:
       value: Environment
