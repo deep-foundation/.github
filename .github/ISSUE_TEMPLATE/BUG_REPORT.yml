@@ -84,10 +84,3 @@ body:
       render: bash
     validations:
       required: false
-  - type: textarea
-    id: additional-context
-    attributes:
-      label: 'Additional context/Screenshots'
-      description: Add any other context about the problem here. If applicable, add screenshots to help explain.
-    validations:
-      required: false
