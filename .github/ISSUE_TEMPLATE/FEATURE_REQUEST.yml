@@ -41,6 +41,5 @@ body:
     attributes:
       label: 'Additional context/Screenshots'
       description: Add any other context or screenshots about the feature request here.
-      render: bash
     validations:
       required: false
