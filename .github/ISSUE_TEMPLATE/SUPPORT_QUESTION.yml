@@ -1,5 +1,5 @@
 name: '🤔 Support or Question'
-description: Get Real-Time Help.
+description: Get Help.
 labels: ['question']
 body:
   - type: markdown
