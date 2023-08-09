@@ -6,13 +6,16 @@
 
 # 2. Login as the administrator
 
-[![Login as the administrator YouTube video](https://raw.githubusercontent.com/deep-foundation/.github/main/LoginAsAdministratorUserInDeep.png "Login as the administrator YouTube video")](https://www.youtube.com/watch?v=WNyz_jp9cAk)
+[![Login as the administrator YouTube video](https://raw.githubusercontent.com/deep-foundation/.github/main/LoginAsAdministratorUserInDeep.png "Login as the administrator YouTube video")](https://www.youtube.com/watch?v=li8cGen-1Xw)
 
 # 3. Choose and install your favourite package
 
 We have packages [with `deep-package` keyword in NPM (125+ packages)](https://www.npmjs.com/search?q=keywords:deep-package).
 
+![image](https://github.com/deep-foundation/.github/assets/44348954/39a4ebe3-a0b5-4240-bb51-6b836d538a82)
+
 These packages contain links. Each link can be a type or an instance of a type. Each link can have an attached value.
+
 
 Some packages can contain handlers. Handlers are links that define which code should be executed up on which event (insert, update, delete, ...). Handlers can act as actuators or sensorts. Handlers can also describe the UI, these handlers are called client handlers.
 
