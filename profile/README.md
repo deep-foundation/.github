@@ -10,7 +10,7 @@
 
 # 3. Choose and install your favourite package
 
-We have packages [with `deep-package` keyword in NPM (125+ packages)](https://www.npmjs.com/search?q=keywords:deep-package).
+We have packages [with `deep-package` keyword in NPM (177+ packages)](https://www.npmjs.com/search?q=keywords:deep-package).
 
 These packages contain links. Each link can be a type or an instance of a type. Each link can have an attached value.
 
