@@ -128,7 +128,7 @@ In the `createTask` function, we create a new `Task` instance by inserting a lin
 
 # 6. Read [wiki](https://github.com/deep-foundation/documentation/wiki) for other life hacks and other [GPT-4 prompts](https://github.com/deep-foundation/documentation/wiki/GPT-4-prompts-to-use-Deep).
 
-P.S.
+## P.S.
 
 ```
 L ↦ L × L
