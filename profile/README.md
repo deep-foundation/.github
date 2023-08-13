@@ -32,7 +32,7 @@ Note that we have `@chatgpt` bot on our Discord server that connected to GPT-4 d
 
 **Context description**
 
-Deep is a system that uses Hasura on top of PostgreSQL. 
+Deep is a system that uses Hasura on top of PostgreSQL that allows to work with networks of triplet and doublet links `L ↦ L³`.
 `links` table have columns: `id`, `type_id` (mandatory) , `from_id` , `to_id` (all with `bigint` type, `0` by default).
 `numbers`, `strings`, `objects` tables have columns `id`, `link_id` and `value`. 
 `value` column has: `text` type in `strings` table, `numeric` type in `numbers` table and `jsonb` type in `objects` table.
