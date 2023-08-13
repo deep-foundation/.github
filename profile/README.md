@@ -1,4 +1,4 @@
-# Welcome to the Deep
+# Welcome to the Deep (L ↦ L²)
 
 # 1. Start a deep instance in [![Gitpod](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/deep-foundation/dev)
 
@@ -126,3 +126,9 @@ In the `createTask` function, we create a new `Task` instance by inserting a lin
 ![Screenshot_20230611_224757](https://github.com/deep-foundation/.github/assets/1431904/b20904ed-d516-41d2-b7e0-df08ee3f2c80)
 
 # 6. Read [wiki](https://github.com/deep-foundation/documentation/wiki) for other life hacks and other [GPT-4 prompts](https://github.com/deep-foundation/documentation/wiki/GPT-4-prompts-to-use-Deep).
+
+P.S.
+
+```
+L ↦ L × L
+```
