@@ -54,6 +54,7 @@ body:
       description: |
         Please paste the output of running `npx envinfo --system --npmPackages --markdown`. Do not forget to replace PACKAGE_NAME placeholder to actual package name.
         This will be automatically formatted as a code block, so no need for backticks.
+      render: shell
       placeholder: |
         System:
           OS: Linux 5.10 Debian GNU/Linux 9 (stretch)
