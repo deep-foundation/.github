@@ -4,6 +4,9 @@
 
 [![Start a deep instance in YouTube video](https://raw.githubusercontent.com/deep-foundation/.github/main/StartDeepInstanceInGitPod.png "Start a deep instance in YouTube video")](https://www.youtube.com/watch?v=MBZZDDASrqo)
 
+It may be required to open 3007 port manually, to do it open `PORTS` tab and select link to `3007` port.
+![Screenshot_20230913_225620](https://github.com/deep-foundation/.github/assets/1431904/2ce7ad96-cf27-4577-a251-0a9477fa249e)
+
 # 2. Login as the administrator
 
 [![Login as the administrator YouTube video](https://raw.githubusercontent.com/deep-foundation/.github/main/LoginAsAdministratorUserInDeep.png "Login as the administrator YouTube video")](https://www.youtube.com/watch?v=li8cGen-1Xw)
