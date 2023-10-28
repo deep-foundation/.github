@@ -51,6 +51,8 @@ Each `Contain` link goes from a container link to a contained link. `Contain` li
 Node in the context of Deep is a link record that have `from_id` and `to_id` columns set to `0`. For these node links we never set `from_id`, `from`, `to_id` and `to` fields on insert.
 `value` field is never set on insert of a link, `number`, `string` and `object` fields are used instead, if we know that type of that link supports attaching of a value to an instance.
 
+Humanitarian description: Deep is a system based on the idea of association (link), links/associations can be used to represent any knowladge or data as well is code. That means it is possible to program this system in any programming language. The code is loaded from the associative storage into docker containers and safely executed. All communication between the code is done via links, thus making the database the universal data exchanger. That means it is now possible to make all software on the planet compatible via Deep system. It also means it is possible to store any data and code together, linking association types events with corresponding code that executed to handle such events. Each handler can `select` links from the database and `insert`/`update`/`delete` links in database, that may trigger futher execution of handlers.
+
 **Issue description**
 
 `Task` is a user defined node type, its instances have string value. It should be created by `createTaskType` function. 
