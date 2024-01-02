@@ -9,17 +9,17 @@ body:
     attributes:
       value: |
         - Read all our [Wiki](https://github.com/deep-foundation/documentation/wiki). It may contain information that helps you solve your issue.
-        - Ensure your issue isn't already reported.
-        - If you aren't sure that the issue is caused by Deep or you just need help, please use [![StackOverflow](https://badgen.net/badge/icon/stackoverflow?icon=stackoverflow&label&color=orange)](https://stackoverflow.com/questions/tagged/deep) or [![our Discord server](https://badgen.net/badge/icon/discord?icon=discord&label&color=purple)](https://discord.gg/deep-foundation).
-        - Ensure it isn't already fixed in the latest versions.
+        - To get help from humans and/or GPT-4 use [![StackOverflow](https://badgen.net/badge/icon/stackoverflow?icon=stackoverflow&label&color=orange)](https://stackoverflow.com/questions/tagged/deep) or [![our Discord server](https://badgen.net/badge/icon/discord?icon=discord&label&color=purple)](https://discord.gg/deep-foundation).
+        - It would be nice if you ensure the issue isn't already reported.
+        - It would be nice if you ensure it isn't already fixed in the latest versions.
   - type: markdown
     attributes:
       value: '⚠️👆 Feel free to these instructions before submitting the issue 👆⚠️'
   - type: textarea
     id: description
     attributes:
-      label: 'Describe the bug'
-      description: A clear and concise description of what the bug is.
+      label: 'Bug description'
+      description: Give a clear and concise description of what the bug is.
     validations:
       required: false
   - type: textarea
@@ -48,14 +48,28 @@ body:
         3. yarn test
         4. You should see the error come up
   - type: textarea
+    id: workaround
+    attributes:
+      label: Workaround
+      description: Describe another way to do what you have intended to do if you know any
+    validations:
+      required: false
+  - type: textarea
     id: envinfo
     attributes:
       label: Environment
       description: |
-        Please paste the output of running `npx envinfo --system --npmPackages --markdown`. Do not forget to replace PACKAGE_NAME placeholder to actual package name.
+        Please paste at least one of:
+        * the Deep.Case App version
+        * deep package version
+        * the output of running `npx envinfo --system --npmPackages --markdown`. 
+        Do not forget to replace PACKAGE_NAME placeholder to actual deep package name.
         This will be automatically formatted as a code block, so no need for backticks.
       render: shell
       placeholder: |
+        Deep:
+          Deep.Case App: 0.1.0-beta.12 (0.0.98)
+          PACKAGE_NAME: 0.0.1
         System:
           OS: Linux 5.10 Debian GNU/Linux 9 (stretch)
           CPU: (8) arm64
