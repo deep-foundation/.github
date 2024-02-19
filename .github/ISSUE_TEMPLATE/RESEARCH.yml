@@ -1,0 +1,17 @@
+name: Research
+description: Research commited
+title: "[Research]: "
+labels: ["research"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Some kind of research or experiments need to  be done
+  - type: textarea
+    id: info
+    attributes:
+      label: Object, subject, context, hypotheses
+      description: Describe here what need to be researched
+      placeholder: input here info
+    validations:
+      required: true
